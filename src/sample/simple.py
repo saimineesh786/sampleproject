@@ -8,4 +8,5 @@ def add_one(number):
     print('systemd check')
     print('NHA check')
     print('Git push')
+    print('SSH check')
     return number + 1
