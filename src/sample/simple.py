@@ -7,4 +7,5 @@ def add_one(number):
     print('edited from github')
     print('systemd check')
     print('NHA check')
+    print('Git push')
     return number + 1
