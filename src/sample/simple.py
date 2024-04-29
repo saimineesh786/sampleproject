@@ -5,4 +5,5 @@ def add_one(number):
     print(number+2100)
     print('more prints added')
     print('edited from github')
+    print('systemd check')
     return number + 1
