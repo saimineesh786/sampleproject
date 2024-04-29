@@ -6,4 +6,5 @@ def add_one(number):
     print('more prints added')
     print('edited from github')
     print('systemd check')
+    print('NHA check')
     return number + 1
